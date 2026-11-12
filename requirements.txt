@@ -1,0 +1,15 @@
+python-dotenv
+requests
+pandas
+numpy
+scikit-learn
+matplotlib
+plotly
+streamlit
+pytest
+emoji
+langdetect
+networkx
+google-api-python-client
+neo4j
+elasticsearch

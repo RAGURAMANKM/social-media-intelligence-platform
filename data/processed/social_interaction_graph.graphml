@@ -1,0 +1,2512 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d2" for="edge" attr.name="relationship" attr.type="string" />
+  <key id="d1" for="node" attr.name="label" attr.type="string" />
+  <key id="d0" for="node" attr.name="node_type" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="channel:60 Minutes Australia">
+      <data key="d0">channel</data>
+      <data key="d1">60 Minutes Australia</data>
+    </node>
+    <node id="video:XMxcSf9XkbQ">
+      <data key="d0">video</data>
+      <data key="d1">XMxcSf9XkbQ</data>
+    </node>
+    <node id="channel:Simplilearn">
+      <data key="d0">channel</data>
+      <data key="d1">Simplilearn</data>
+    </node>
+    <node id="video:ad79nYk2keg">
+      <data key="d0">video</data>
+      <data key="d1">ad79nYk2keg</data>
+    </node>
+    <node id="commenter:@SimplilearnOfficial">
+      <data key="d0">commenter</data>
+      <data key="d1">@SimplilearnOfficial</data>
+    </node>
+    <node id="commenter:@NanduRathod-w6d">
+      <data key="d0">commenter</data>
+      <data key="d1">@NanduRathod-w6d</data>
+    </node>
+    <node id="commenter:@dollysingh255">
+      <data key="d0">commenter</data>
+      <data key="d1">@dollysingh255</data>
+    </node>
+    <node id="commenter:@KalyaniJamadar-j5n">
+      <data key="d0">commenter</data>
+      <data key="d1">@KalyaniJamadar-j5n</data>
+    </node>
+    <node id="commenter:@MuhammadAdeelChughtai">
+      <data key="d0">commenter</data>
+      <data key="d1">@MuhammadAdeelChughtai</data>
+    </node>
+    <node id="commenter:@OlanikeAkilo">
+      <data key="d0">commenter</data>
+      <data key="d1">@OlanikeAkilo</data>
+    </node>
+    <node id="commenter:@ThreeAngel-v5r">
+      <data key="d0">commenter</data>
+      <data key="d1">@ThreeAngel-v5r</data>
+    </node>
+    <node id="commenter:@BytefrontStudio">
+      <data key="d0">commenter</data>
+      <data key="d1">@BytefrontStudio</data>
+    </node>
+    <node id="commenter:@PeterCarlson-o9n">
+      <data key="d0">commenter</data>
+      <data key="d1">@PeterCarlson-o9n</data>
+    </node>
+    <node id="commenter:@elianmartinezmorales199">
+      <data key="d0">commenter</data>
+      <data key="d1">@elianmartinezmorales199</data>
+    </node>
+    <node id="commenter:@preciousolafioye2589">
+      <data key="d0">commenter</data>
+      <data key="d1">@preciousolafioye2589</data>
+    </node>
+    <node id="commenter:@meekserge6300">
+      <data key="d0">commenter</data>
+      <data key="d1">@meekserge6300</data>
+    </node>
+    <node id="commenter:@SundayEman">
+      <data key="d0">commenter</data>
+      <data key="d1">@SundayEman</data>
+    </node>
+    <node id="commenter:@VishnupriyaanjellSneha">
+      <data key="d0">commenter</data>
+      <data key="d1">@VishnupriyaanjellSneha</data>
+    </node>
+    <node id="commenter:@balasubramanianmuthu7270">
+      <data key="d0">commenter</data>
+      <data key="d1">@balasubramanianmuthu7270</data>
+    </node>
+    <node id="commenter:@torijoyous">
+      <data key="d0">commenter</data>
+      <data key="d1">@torijoyous</data>
+    </node>
+    <node id="commenter:@DANITEKDIGITALSOLUTIONS">
+      <data key="d0">commenter</data>
+      <data key="d1">@DANITEKDIGITALSOLUTIONS</data>
+    </node>
+    <node id="commenter:@KajalSingh-og4sg">
+      <data key="d0">commenter</data>
+      <data key="d1">@KajalSingh-og4sg</data>
+    </node>
+    <node id="commenter:@TaneshaBunch">
+      <data key="d0">commenter</data>
+      <data key="d1">@TaneshaBunch</data>
+    </node>
+    <node id="commenter:@SIMOFOX-F1">
+      <data key="d0">commenter</data>
+      <data key="d1">@SIMOFOX-F1</data>
+    </node>
+    <node id="commenter:@ЯрославПрисяжний-э3у">
+      <data key="d0">commenter</data>
+      <data key="d1">@ЯрославПрисяжний-э3у</data>
+    </node>
+    <node id="commenter:@SusmitaRoy-r6o">
+      <data key="d0">commenter</data>
+      <data key="d1">@SusmitaRoy-r6o</data>
+    </node>
+    <node id="commenter:@newonFactstime">
+      <data key="d0">commenter</data>
+      <data key="d1">@newonFactstime</data>
+    </node>
+    <node id="commenter:@tvaccount2105">
+      <data key="d0">commenter</data>
+      <data key="d1">@tvaccount2105</data>
+    </node>
+    <node id="commenter:@nilanjanroychoudhury9084">
+      <data key="d0">commenter</data>
+      <data key="d1">@nilanjanroychoudhury9084</data>
+    </node>
+    <node id="commenter:@apiowinniefred-h5k">
+      <data key="d0">commenter</data>
+      <data key="d1">@apiowinniefred-h5k</data>
+    </node>
+    <node id="commenter:@junkyardawgs">
+      <data key="d0">commenter</data>
+      <data key="d1">@junkyardawgs</data>
+    </node>
+    <node id="commenter:@Ibrahim-bz9gq">
+      <data key="d0">commenter</data>
+      <data key="d1">@Ibrahim-bz9gq</data>
+    </node>
+    <node id="commenter:@AnasHasan-2005">
+      <data key="d0">commenter</data>
+      <data key="d1">@AnasHasan-2005</data>
+    </node>
+    <node id="commenter:@rajeshkumarpalani9938">
+      <data key="d0">commenter</data>
+      <data key="d1">@rajeshkumarpalani9938</data>
+    </node>
+    <node id="commenter:@RajeshKumarPalani-f4j">
+      <data key="d0">commenter</data>
+      <data key="d1">@RajeshKumarPalani-f4j</data>
+    </node>
+    <node id="commenter:@DavidChadderton-g7d">
+      <data key="d0">commenter</data>
+      <data key="d1">@DavidChadderton-g7d</data>
+    </node>
+    <node id="commenter:@ACEofBASED101">
+      <data key="d0">commenter</data>
+      <data key="d1">@ACEofBASED101</data>
+    </node>
+    <node id="commenter:@divyataneja900">
+      <data key="d0">commenter</data>
+      <data key="d1">@divyataneja900</data>
+    </node>
+    <node id="commenter:@DanielleWillis-z3j">
+      <data key="d0">commenter</data>
+      <data key="d1">@DanielleWillis-z3j</data>
+    </node>
+    <node id="commenter:@GraceJCK">
+      <data key="d0">commenter</data>
+      <data key="d1">@GraceJCK</data>
+    </node>
+    <node id="commenter:@ZulkifilKartal">
+      <data key="d0">commenter</data>
+      <data key="d1">@ZulkifilKartal</data>
+    </node>
+    <node id="commenter:@ShrutiNarvekar-d1j">
+      <data key="d0">commenter</data>
+      <data key="d1">@ShrutiNarvekar-d1j</data>
+    </node>
+    <node id="commenter:@indisports484">
+      <data key="d0">commenter</data>
+      <data key="d1">@indisports484</data>
+    </node>
+    <node id="commenter:@AhmedAli-f5f3w">
+      <data key="d0">commenter</data>
+      <data key="d1">@AhmedAli-f5f3w</data>
+    </node>
+    <node id="commenter:@MudassirSyed-d8q">
+      <data key="d0">commenter</data>
+      <data key="d1">@MudassirSyed-d8q</data>
+    </node>
+    <node id="commenter:@SaanviInnovations">
+      <data key="d0">commenter</data>
+      <data key="d1">@SaanviInnovations</data>
+    </node>
+    <node id="commenter:@WanofiHayleysus">
+      <data key="d0">commenter</data>
+      <data key="d1">@WanofiHayleysus</data>
+    </node>
+    <node id="commenter:@Daniel-v6i7v">
+      <data key="d0">commenter</data>
+      <data key="d1">@Daniel-v6i7v</data>
+    </node>
+    <node id="commenter:@Dipankar-s7">
+      <data key="d0">commenter</data>
+      <data key="d1">@Dipankar-s7</data>
+    </node>
+    <node id="commenter:@johnsylvanus-cf2fp">
+      <data key="d0">commenter</data>
+      <data key="d1">@johnsylvanus-cf2fp</data>
+    </node>
+    <node id="channel:edureka!">
+      <data key="d0">channel</data>
+      <data key="d1">edureka!</data>
+    </node>
+    <node id="video:JMUxmLyrhSk">
+      <data key="d0">video</data>
+      <data key="d1">JMUxmLyrhSk</data>
+    </node>
+    <node id="commenter:@edurekaIN">
+      <data key="d0">commenter</data>
+      <data key="d1">@edurekaIN</data>
+    </node>
+    <node id="commenter:@BholaSing-d7c">
+      <data key="d0">commenter</data>
+      <data key="d1">@BholaSing-d7c</data>
+    </node>
+    <node id="commenter:@NishitaHatun">
+      <data key="d0">commenter</data>
+      <data key="d1">@NishitaHatun</data>
+    </node>
+    <node id="commenter:@johnjacob5240">
+      <data key="d0">commenter</data>
+      <data key="d1">@johnjacob5240</data>
+    </node>
+    <node id="commenter:@SNTHAKUR96">
+      <data key="d0">commenter</data>
+      <data key="d1">@SNTHAKUR96</data>
+    </node>
+    <node id="commenter:@SåMīrRåYÑ-l6h">
+      <data key="d0">commenter</data>
+      <data key="d1">@SåMīrRåYÑ-l6h</data>
+    </node>
+    <node id="commenter:@AmitSharma-rc4zq">
+      <data key="d0">commenter</data>
+      <data key="d1">@AmitSharma-rc4zq</data>
+    </node>
+    <node id="commenter:@aurelianalcali">
+      <data key="d0">commenter</data>
+      <data key="d1">@aurelianalcali</data>
+    </node>
+    <node id="commenter:@GunaVishal.R">
+      <data key="d0">commenter</data>
+      <data key="d1">@GunaVishal.R</data>
+    </node>
+    <node id="commenter:@CaowmsuehNaowmsus">
+      <data key="d0">commenter</data>
+      <data key="d1">@CaowmsuehNaowmsus</data>
+    </node>
+    <node id="commenter:@SHASHIMISHRA-y7i">
+      <data key="d0">commenter</data>
+      <data key="d1">@SHASHIMISHRA-y7i</data>
+    </node>
+    <node id="commenter:@JafevuviRgdvycer">
+      <data key="d0">commenter</data>
+      <data key="d1">@JafevuviRgdvycer</data>
+    </node>
+    <node id="commenter:@IsaiahKeirnant">
+      <data key="d0">commenter</data>
+      <data key="d1">@IsaiahKeirnant</data>
+    </node>
+    <node id="commenter:@felisminamavie2242">
+      <data key="d0">commenter</data>
+      <data key="d1">@felisminamavie2242</data>
+    </node>
+    <node id="commenter:@amarjitdas1785">
+      <data key="d0">commenter</data>
+      <data key="d1">@amarjitdas1785</data>
+    </node>
+    <node id="commenter:@BhiraiahSangepu-o6o">
+      <data key="d0">commenter</data>
+      <data key="d1">@BhiraiahSangepu-o6o</data>
+    </node>
+    <node id="commenter:@habiburrohoman-u7o">
+      <data key="d0">commenter</data>
+      <data key="d1">@habiburrohoman-u7o</data>
+    </node>
+    <node id="commenter:@deborabenegas9609">
+      <data key="d0">commenter</data>
+      <data key="d1">@deborabenegas9609</data>
+    </node>
+    <node id="commenter:@NiiSackey-zs6kn">
+      <data key="d0">commenter</data>
+      <data key="d1">@NiiSackey-zs6kn</data>
+    </node>
+    <node id="commenter:@Daniel-d1c5y">
+      <data key="d0">commenter</data>
+      <data key="d1">@Daniel-d1c5y</data>
+    </node>
+    <node id="commenter:@jays.b1997">
+      <data key="d0">commenter</data>
+      <data key="d1">@jays.b1997</data>
+    </node>
+    <node id="commenter:@RehmanAli-b1w">
+      <data key="d0">commenter</data>
+      <data key="d1">@RehmanAli-b1w</data>
+    </node>
+    <node id="commenter:@muhammadahtasham962">
+      <data key="d0">commenter</data>
+      <data key="d1">@muhammadahtasham962</data>
+    </node>
+    <node id="commenter:@NdhjBdgb">
+      <data key="d0">commenter</data>
+      <data key="d1">@NdhjBdgb</data>
+    </node>
+    <node id="commenter:@CondoramSowsn">
+      <data key="d0">commenter</data>
+      <data key="d1">@CondoramSowsn</data>
+    </node>
+    <node id="commenter:@japi425">
+      <data key="d0">commenter</data>
+      <data key="d1">@japi425</data>
+    </node>
+    <node id="commenter:@RichardRiley-e3l">
+      <data key="d0">commenter</data>
+      <data key="d1">@RichardRiley-e3l</data>
+    </node>
+    <node id="commenter:@RyannOrgan">
+      <data key="d0">commenter</data>
+      <data key="d1">@RyannOrgan</data>
+    </node>
+    <node id="commenter:@hussainbashasheik9901">
+      <data key="d0">commenter</data>
+      <data key="d1">@hussainbashasheik9901</data>
+    </node>
+    <node id="commenter:@SabineSchmitz-j4d">
+      <data key="d0">commenter</data>
+      <data key="d1">@SabineSchmitz-j4d</data>
+    </node>
+    <node id="commenter:@ArockiadasManickam">
+      <data key="d0">commenter</data>
+      <data key="d1">@ArockiadasManickam</data>
+    </node>
+    <node id="commenter:@krishnadeshpande2570">
+      <data key="d0">commenter</data>
+      <data key="d1">@krishnadeshpande2570</data>
+    </node>
+    <node id="commenter:@WillianeYarro">
+      <data key="d0">commenter</data>
+      <data key="d1">@WillianeYarro</data>
+    </node>
+    <node id="commenter:@AnshuTiwary-q3h">
+      <data key="d0">commenter</data>
+      <data key="d1">@AnshuTiwary-q3h</data>
+    </node>
+    <node id="commenter:@nsubugaalysha7216">
+      <data key="d0">commenter</data>
+      <data key="d1">@nsubugaalysha7216</data>
+    </node>
+    <node id="commenter:@mkhizarsultan6940">
+      <data key="d0">commenter</data>
+      <data key="d1">@mkhizarsultan6940</data>
+    </node>
+    <node id="commenter:@mini4667">
+      <data key="d0">commenter</data>
+      <data key="d1">@mini4667</data>
+    </node>
+    <node id="commenter:@somnathbhattacharya6430">
+      <data key="d0">commenter</data>
+      <data key="d1">@somnathbhattacharya6430</data>
+    </node>
+    <node id="commenter:@kamalkantgautam1287">
+      <data key="d0">commenter</data>
+      <data key="d1">@kamalkantgautam1287</data>
+    </node>
+    <node id="commenter:@fariashaikh1755">
+      <data key="d0">commenter</data>
+      <data key="d1">@fariashaikh1755</data>
+    </node>
+    <node id="commenter:@awedayo1972">
+      <data key="d0">commenter</data>
+      <data key="d1">@awedayo1972</data>
+    </node>
+    <node id="commenter:@BuragapuHaritha">
+      <data key="d0">commenter</data>
+      <data key="d1">@BuragapuHaritha</data>
+    </node>
+    <node id="commenter:@KianRezaee-x3d">
+      <data key="d0">commenter</data>
+      <data key="d1">@KianRezaee-x3d</data>
+    </node>
+    <node id="commenter:@PipingMuhamadAripin">
+      <data key="d0">commenter</data>
+      <data key="d1">@PipingMuhamadAripin</data>
+    </node>
+    <node id="commenter:@zainudeenrawther3607">
+      <data key="d0">commenter</data>
+      <data key="d1">@zainudeenrawther3607</data>
+    </node>
+    <node id="commenter:@meghana-oc1xq8gk9t">
+      <data key="d0">commenter</data>
+      <data key="d1">@meghana-oc1xq8gk9t</data>
+    </node>
+    <node id="commenter:@subbarayans6625">
+      <data key="d0">commenter</data>
+      <data key="d1">@subbarayans6625</data>
+    </node>
+    <node id="commenter:@adebilejetunji7965">
+      <data key="d0">commenter</data>
+      <data key="d1">@adebilejetunji7965</data>
+    </node>
+    <node id="channel:IBM Technology">
+      <data key="d0">channel</data>
+      <data key="d1">IBM Technology</data>
+    </node>
+    <node id="video:mUw27wG7uFA">
+      <data key="d0">video</data>
+      <data key="d1">mUw27wG7uFA</data>
+    </node>
+    <node id="commenter:@ShobhakarTiwari">
+      <data key="d0">commenter</data>
+      <data key="d1">@ShobhakarTiwari</data>
+    </node>
+    <node id="commenter:@bincrazy-p8d">
+      <data key="d0">commenter</data>
+      <data key="d1">@bincrazy-p8d</data>
+    </node>
+    <node id="commenter:@iwsL-j4r">
+      <data key="d0">commenter</data>
+      <data key="d1">@iwsL-j4r</data>
+    </node>
+    <node id="commenter:@kien6131">
+      <data key="d0">commenter</data>
+      <data key="d1">@kien6131</data>
+    </node>
+    <node id="commenter:@AsiimweGloria-c5l">
+      <data key="d0">commenter</data>
+      <data key="d1">@AsiimweGloria-c5l</data>
+    </node>
+    <node id="commenter:@GEF6560">
+      <data key="d0">commenter</data>
+      <data key="d1">@GEF6560</data>
+    </node>
+    <node id="commenter:@hoatalwong1681">
+      <data key="d0">commenter</data>
+      <data key="d1">@hoatalwong1681</data>
+    </node>
+    <node id="commenter:@itsmyturnmedia">
+      <data key="d0">commenter</data>
+      <data key="d1">@itsmyturnmedia</data>
+    </node>
+    <node id="commenter:@Stcil12">
+      <data key="d0">commenter</data>
+      <data key="d1">@Stcil12</data>
+    </node>
+    <node id="commenter:@Watcher375">
+      <data key="d0">commenter</data>
+      <data key="d1">@Watcher375</data>
+    </node>
+    <node id="commenter:@DotrOfDt">
+      <data key="d0">commenter</data>
+      <data key="d1">@DotrOfDt</data>
+    </node>
+    <node id="commenter:@abrahamjacob8517">
+      <data key="d0">commenter</data>
+      <data key="d1">@abrahamjacob8517</data>
+    </node>
+    <node id="commenter:@derekonai">
+      <data key="d0">commenter</data>
+      <data key="d1">@derekonai</data>
+    </node>
+    <node id="commenter:@Zn_Arian">
+      <data key="d0">commenter</data>
+      <data key="d1">@Zn_Arian</data>
+    </node>
+    <node id="commenter:@L.h314">
+      <data key="d0">commenter</data>
+      <data key="d1">@L.h314</data>
+    </node>
+    <node id="commenter:@elizabethcooke8998">
+      <data key="d0">commenter</data>
+      <data key="d1">@elizabethcooke8998</data>
+    </node>
+    <node id="commenter:@procellxtwinkletoes">
+      <data key="d0">commenter</data>
+      <data key="d1">@procellxtwinkletoes</data>
+    </node>
+    <node id="commenter:@YamahaC7SRG">
+      <data key="d0">commenter</data>
+      <data key="d1">@YamahaC7SRG</data>
+    </node>
+    <node id="commenter:@AndreaMichelle-w5f">
+      <data key="d0">commenter</data>
+      <data key="d1">@AndreaMichelle-w5f</data>
+    </node>
+    <node id="commenter:@brianday67">
+      <data key="d0">commenter</data>
+      <data key="d1">@brianday67</data>
+    </node>
+    <node id="commenter:@RobertMcDougall73">
+      <data key="d0">commenter</data>
+      <data key="d1">@RobertMcDougall73</data>
+    </node>
+    <node id="commenter:@MelisaAguilar-ec4pi">
+      <data key="d0">commenter</data>
+      <data key="d1">@MelisaAguilar-ec4pi</data>
+    </node>
+    <node id="commenter:@ChadMc74">
+      <data key="d0">commenter</data>
+      <data key="d1">@ChadMc74</data>
+    </node>
+    <node id="commenter:@shtroizn">
+      <data key="d0">commenter</data>
+      <data key="d1">@shtroizn</data>
+    </node>
+    <node id="commenter:@ShiwamKumar-x4w">
+      <data key="d0">commenter</data>
+      <data key="d1">@ShiwamKumar-x4w</data>
+    </node>
+    <node id="commenter:@Randy.E.R">
+      <data key="d0">commenter</data>
+      <data key="d1">@Randy.E.R</data>
+    </node>
+    <node id="commenter:@T-KRD">
+      <data key="d0">commenter</data>
+      <data key="d1">@T-KRD</data>
+    </node>
+    <node id="commenter:@Ramkumar-uj9fo">
+      <data key="d0">commenter</data>
+      <data key="d1">@Ramkumar-uj9fo</data>
+    </node>
+    <node id="commenter:@iamjohntanedo">
+      <data key="d0">commenter</data>
+      <data key="d1">@iamjohntanedo</data>
+    </node>
+    <node id="commenter:@patricklaughran6650">
+      <data key="d0">commenter</data>
+      <data key="d1">@patricklaughran6650</data>
+    </node>
+    <node id="commenter:@stanlylewis-t8t">
+      <data key="d0">commenter</data>
+      <data key="d1">@stanlylewis-t8t</data>
+    </node>
+    <node id="commenter:@Fried52">
+      <data key="d0">commenter</data>
+      <data key="d1">@Fried52</data>
+    </node>
+    <node id="commenter:@AISandboxAcademy">
+      <data key="d0">commenter</data>
+      <data key="d1">@AISandboxAcademy</data>
+    </node>
+    <node id="commenter:@FilmArchiveChannel">
+      <data key="d0">commenter</data>
+      <data key="d1">@FilmArchiveChannel</data>
+    </node>
+    <node id="commenter:@SquareHelmet">
+      <data key="d0">commenter</data>
+      <data key="d1">@SquareHelmet</data>
+    </node>
+    <node id="commenter:@charles-iii6759">
+      <data key="d0">commenter</data>
+      <data key="d1">@charles-iii6759</data>
+    </node>
+    <node id="commenter:@raykirkham5357">
+      <data key="d0">commenter</data>
+      <data key="d1">@raykirkham5357</data>
+    </node>
+    <node id="commenter:@SeattleNoname">
+      <data key="d0">commenter</data>
+      <data key="d1">@SeattleNoname</data>
+    </node>
+    <node id="commenter:@lanreenilo788">
+      <data key="d0">commenter</data>
+      <data key="d1">@lanreenilo788</data>
+    </node>
+    <node id="commenter:@Maria-w3k7z">
+      <data key="d0">commenter</data>
+      <data key="d1">@Maria-w3k7z</data>
+    </node>
+    <node id="commenter:@saalimzafar93">
+      <data key="d0">commenter</data>
+      <data key="d1">@saalimzafar93</data>
+    </node>
+    <node id="commenter:@lilyroseable">
+      <data key="d0">commenter</data>
+      <data key="d1">@lilyroseable</data>
+    </node>
+    <node id="commenter:@TKumar-yv9iz">
+      <data key="d0">commenter</data>
+      <data key="d1">@TKumar-yv9iz</data>
+    </node>
+    <node id="commenter:@LuganoMassimo">
+      <data key="d0">commenter</data>
+      <data key="d1">@LuganoMassimo</data>
+    </node>
+    <node id="commenter:@LwinAungMoe-m5s">
+      <data key="d0">commenter</data>
+      <data key="d1">@LwinAungMoe-m5s</data>
+    </node>
+    <node id="commenter:@nunomoldigital">
+      <data key="d0">commenter</data>
+      <data key="d1">@nunomoldigital</data>
+    </node>
+    <node id="commenter:@SamarAtefShear">
+      <data key="d0">commenter</data>
+      <data key="d1">@SamarAtefShear</data>
+    </node>
+    <node id="commenter:@HarrietOluoch-n2y">
+      <data key="d0">commenter</data>
+      <data key="d1">@HarrietOluoch-n2y</data>
+    </node>
+    <node id="commenter:@tonyg6827">
+      <data key="d0">commenter</data>
+      <data key="d1">@tonyg6827</data>
+    </node>
+    <node id="channel:Peekaboo Kidz">
+      <data key="d0">channel</data>
+      <data key="d1">Peekaboo Kidz</data>
+    </node>
+    <node id="video:ttIOdAdQaUE">
+      <data key="d0">video</data>
+      <data key="d1">ttIOdAdQaUE</data>
+    </node>
+    <node id="channel:CynoHub">
+      <data key="d0">channel</data>
+      <data key="d1">CynoHub</data>
+    </node>
+    <node id="video:rw4SFwleSqA">
+      <data key="d0">video</data>
+      <data key="d1">rw4SFwleSqA</data>
+    </node>
+    <node id="commenter:@cynohub">
+      <data key="d0">commenter</data>
+      <data key="d1">@cynohub</data>
+    </node>
+    <node id="commenter:@KagithasatyamnaryanaSatyanaray">
+      <data key="d0">commenter</data>
+      <data key="d1">@KagithasatyamnaryanaSatyanaray</data>
+    </node>
+    <node id="commenter:@18895kumar">
+      <data key="d0">commenter</data>
+      <data key="d1">@18895kumar</data>
+    </node>
+    <node id="commenter:@saradhichitfundsmncl5908">
+      <data key="d0">commenter</data>
+      <data key="d1">@saradhichitfundsmncl5908</data>
+    </node>
+    <node id="commenter:@KumarGokarakonda">
+      <data key="d0">commenter</data>
+      <data key="d1">@KumarGokarakonda</data>
+    </node>
+    <node id="commenter:@JoyLucky-h3j4s">
+      <data key="d0">commenter</data>
+      <data key="d1">@JoyLucky-h3j4s</data>
+    </node>
+    <node id="commenter:@sathibabupothala1546">
+      <data key="d0">commenter</data>
+      <data key="d1">@sathibabupothala1546</data>
+    </node>
+    <node id="commenter:@God-grace-2026">
+      <data key="d0">commenter</data>
+      <data key="d1">@God-grace-2026</data>
+    </node>
+    <node id="commenter:@jakkulaemmanuel5890">
+      <data key="d0">commenter</data>
+      <data key="d1">@jakkulaemmanuel5890</data>
+    </node>
+    <node id="commenter:@polinaiduyelakala2414">
+      <data key="d0">commenter</data>
+      <data key="d1">@polinaiduyelakala2414</data>
+    </node>
+    <node id="commenter:@krishnarao9874">
+      <data key="d0">commenter</data>
+      <data key="d1">@krishnarao9874</data>
+    </node>
+    <node id="commenter:@RAVIIT-369">
+      <data key="d0">commenter</data>
+      <data key="d1">@RAVIIT-369</data>
+    </node>
+    <node id="commenter:@seshuadi5963">
+      <data key="d0">commenter</data>
+      <data key="d1">@seshuadi5963</data>
+    </node>
+    <node id="commenter:@marysuvarnagirija4919">
+      <data key="d0">commenter</data>
+      <data key="d1">@marysuvarnagirija4919</data>
+    </node>
+    <node id="commenter:@PenchalaMalliah">
+      <data key="d0">commenter</data>
+      <data key="d1">@PenchalaMalliah</data>
+    </node>
+    <node id="commenter:@AkashKumar-p8f8b">
+      <data key="d0">commenter</data>
+      <data key="d1">@AkashKumar-p8f8b</data>
+    </node>
+    <node id="commenter:@NITHISH_MUSIC_WORLD_28">
+      <data key="d0">commenter</data>
+      <data key="d1">@NITHISH_MUSIC_WORLD_28</data>
+    </node>
+    <node id="commenter:@Shaaine_015">
+      <data key="d0">commenter</data>
+      <data key="d1">@Shaaine_015</data>
+    </node>
+    <node id="commenter:@bmpolypetindustries1">
+      <data key="d0">commenter</data>
+      <data key="d1">@bmpolypetindustries1</data>
+    </node>
+    <node id="commenter:@maheswararaolakkimsetti207">
+      <data key="d0">commenter</data>
+      <data key="d1">@maheswararaolakkimsetti207</data>
+    </node>
+    <node id="commenter:@SaiKumar-fm5rr">
+      <data key="d0">commenter</data>
+      <data key="d1">@SaiKumar-fm5rr</data>
+    </node>
+    <node id="commenter:@shyamsunderrao7911">
+      <data key="d0">commenter</data>
+      <data key="d1">@shyamsunderrao7911</data>
+    </node>
+    <node id="commenter:@srinivasamurthyg6766">
+      <data key="d0">commenter</data>
+      <data key="d1">@srinivasamurthyg6766</data>
+    </node>
+    <node id="commenter:@kanchanamgovindaraju2649">
+      <data key="d0">commenter</data>
+      <data key="d1">@kanchanamgovindaraju2649</data>
+    </node>
+    <node id="commenter:@thoughtlineformeditation8787">
+      <data key="d0">commenter</data>
+      <data key="d1">@thoughtlineformeditation8787</data>
+    </node>
+    <node id="commenter:@josephkiran8085">
+      <data key="d0">commenter</data>
+      <data key="d1">@josephkiran8085</data>
+    </node>
+    <node id="commenter:@GayathriBandi-e2h">
+      <data key="d0">commenter</data>
+      <data key="d1">@GayathriBandi-e2h</data>
+    </node>
+    <node id="commenter:@RameshLandam">
+      <data key="d0">commenter</data>
+      <data key="d1">@RameshLandam</data>
+    </node>
+    <node id="commenter:@RSugunamma-x4f3q">
+      <data key="d0">commenter</data>
+      <data key="d1">@RSugunamma-x4f3q</data>
+    </node>
+    <node id="commenter:@gubblaradharani955">
+      <data key="d0">commenter</data>
+      <data key="d1">@gubblaradharani955</data>
+    </node>
+    <node id="commenter:@madhavigoodgirl1537">
+      <data key="d0">commenter</data>
+      <data key="d1">@madhavigoodgirl1537</data>
+    </node>
+    <node id="commenter:@LakshmiAmmu-s3q">
+      <data key="d0">commenter</data>
+      <data key="d1">@LakshmiAmmu-s3q</data>
+    </node>
+    <node id="commenter:@revurinagaraja9677">
+      <data key="d0">commenter</data>
+      <data key="d1">@revurinagaraja9677</data>
+    </node>
+    <node id="commenter:@lakshmikanthmaacherla">
+      <data key="d0">commenter</data>
+      <data key="d1">@lakshmikanthmaacherla</data>
+    </node>
+    <node id="commenter:@Harshitha-ik1pv">
+      <data key="d0">commenter</data>
+      <data key="d1">@Harshitha-ik1pv</data>
+    </node>
+    <node id="commenter:@DhavaleswariAnnapureddy">
+      <data key="d0">commenter</data>
+      <data key="d1">@DhavaleswariAnnapureddy</data>
+    </node>
+    <node id="commenter:@ArunaKonduri">
+      <data key="d0">commenter</data>
+      <data key="d1">@ArunaKonduri</data>
+    </node>
+    <node id="commenter:@nakkakirankumarreddy-m9l">
+      <data key="d0">commenter</data>
+      <data key="d1">@nakkakirankumarreddy-m9l</data>
+    </node>
+    <node id="commenter:@SrinuvasuluMartala">
+      <data key="d0">commenter</data>
+      <data key="d1">@SrinuvasuluMartala</data>
+    </node>
+    <node id="commenter:@RamyaDevathoti">
+      <data key="d0">commenter</data>
+      <data key="d1">@RamyaDevathoti</data>
+    </node>
+    <node id="commenter:@sivam4347">
+      <data key="d0">commenter</data>
+      <data key="d1">@sivam4347</data>
+    </node>
+    <node id="commenter:@murugankasthuri-b2y">
+      <data key="d0">commenter</data>
+      <data key="d1">@murugankasthuri-b2y</data>
+    </node>
+    <node id="commenter:@thyagarajavenkatesh1970">
+      <data key="d0">commenter</data>
+      <data key="d1">@thyagarajavenkatesh1970</data>
+    </node>
+    <node id="commenter:@Praveen347-q6n">
+      <data key="d0">commenter</data>
+      <data key="d1">@Praveen347-q6n</data>
+    </node>
+    <node id="commenter:@MNaresh-n9l4d">
+      <data key="d0">commenter</data>
+      <data key="d1">@MNaresh-n9l4d</data>
+    </node>
+    <node id="commenter:@satyanarayanagudla6655">
+      <data key="d0">commenter</data>
+      <data key="d1">@satyanarayanagudla6655</data>
+    </node>
+    <node id="commenter:@NarenderNarender-w2b">
+      <data key="d0">commenter</data>
+      <data key="d1">@NarenderNarender-w2b</data>
+    </node>
+    <node id="commenter:@PrakashKumba-p1u8o">
+      <data key="d0">commenter</data>
+      <data key="d1">@PrakashKumba-p1u8o</data>
+    </node>
+    <node id="commenter:@msandeep35">
+      <data key="d0">commenter</data>
+      <data key="d1">@msandeep35</data>
+    </node>
+    <node id="channel:Letter Writer">
+      <data key="d0">channel</data>
+      <data key="d1">Letter Writer</data>
+    </node>
+    <node id="video:SKk82S_Wx_I">
+      <data key="d0">video</data>
+      <data key="d1">SKk82S_Wx_I</data>
+    </node>
+    <node id="commenter:@Anathyb484Anathyb">
+      <data key="d0">commenter</data>
+      <data key="d1">@Anathyb484Anathyb</data>
+    </node>
+    <node id="commenter:@supriyabhosle9296">
+      <data key="d0">commenter</data>
+      <data key="d1">@supriyabhosle9296</data>
+    </node>
+    <node id="commenter:@BimalaBogatiRawat">
+      <data key="d0">commenter</data>
+      <data key="d1">@BimalaBogatiRawat</data>
+    </node>
+    <node id="commenter:@claraaameiree">
+      <data key="d0">commenter</data>
+      <data key="d1">@claraaameiree</data>
+    </node>
+    <node id="commenter:@swatitiwari8227">
+      <data key="d0">commenter</data>
+      <data key="d1">@swatitiwari8227</data>
+    </node>
+    <node id="commenter:@sopanmia4219">
+      <data key="d0">commenter</data>
+      <data key="d1">@sopanmia4219</data>
+    </node>
+    <node id="commenter:@BipulNokrek">
+      <data key="d0">commenter</data>
+      <data key="d1">@BipulNokrek</data>
+    </node>
+    <node id="commenter:@andyclark5257">
+      <data key="d0">commenter</data>
+      <data key="d1">@andyclark5257</data>
+    </node>
+    <node id="commenter:@jeremynelson220">
+      <data key="d0">commenter</data>
+      <data key="d1">@jeremynelson220</data>
+    </node>
+    <node id="commenter:@reshmadhulap7575">
+      <data key="d0">commenter</data>
+      <data key="d1">@reshmadhulap7575</data>
+    </node>
+    <node id="commenter:@jordanclark99637">
+      <data key="d0">commenter</data>
+      <data key="d1">@jordanclark99637</data>
+    </node>
+    <node id="commenter:@ArchanaVerma-i4i">
+      <data key="d0">commenter</data>
+      <data key="d1">@ArchanaVerma-i4i</data>
+    </node>
+    <node id="commenter:@sideeqpp4832">
+      <data key="d0">commenter</data>
+      <data key="d1">@sideeqpp4832</data>
+    </node>
+    <node id="commenter:@prashantpardhe5685">
+      <data key="d0">commenter</data>
+      <data key="d1">@prashantpardhe5685</data>
+    </node>
+    <node id="commenter:@cosmiccodeacademy">
+      <data key="d0">commenter</data>
+      <data key="d1">@cosmiccodeacademy</data>
+    </node>
+    <node id="commenter:@hidaaya_aint_smart">
+      <data key="d0">commenter</data>
+      <data key="d1">@hidaaya_aint_smart</data>
+    </node>
+    <node id="commenter:@PadmavathiMungaanda">
+      <data key="d0">commenter</data>
+      <data key="d1">@PadmavathiMungaanda</data>
+    </node>
+    <node id="commenter:@NeelaKrishnan-tb4y">
+      <data key="d0">commenter</data>
+      <data key="d1">@NeelaKrishnan-tb4y</data>
+    </node>
+    <node id="commenter:@RupamDeb-w3w5o">
+      <data key="d0">commenter</data>
+      <data key="d1">@RupamDeb-w3w5o</data>
+    </node>
+    <node id="commenter:@smunro851">
+      <data key="d0">commenter</data>
+      <data key="d1">@smunro851</data>
+    </node>
+    <node id="commenter:@RamaMagar-o6f">
+      <data key="d0">commenter</data>
+      <data key="d1">@RamaMagar-o6f</data>
+    </node>
+    <node id="commenter:@Rohit.kale-14">
+      <data key="d0">commenter</data>
+      <data key="d1">@Rohit.kale-14</data>
+    </node>
+    <node id="commenter:@nishantyadav3162">
+      <data key="d0">commenter</data>
+      <data key="d1">@nishantyadav3162</data>
+    </node>
+    <node id="commenter:@hzzzkhan8849">
+      <data key="d0">commenter</data>
+      <data key="d1">@hzzzkhan8849</data>
+    </node>
+    <node id="commenter:@SukhvirsinghDhaliwal-n1m">
+      <data key="d0">commenter</data>
+      <data key="d1">@SukhvirsinghDhaliwal-n1m</data>
+    </node>
+    <node id="commenter:@saheersahee6967">
+      <data key="d0">commenter</data>
+      <data key="d1">@saheersahee6967</data>
+    </node>
+    <node id="commenter:@AlfiyaBano-t4w2y">
+      <data key="d0">commenter</data>
+      <data key="d1">@AlfiyaBano-t4w2y</data>
+    </node>
+    <node id="commenter:@premlata7577">
+      <data key="d0">commenter</data>
+      <data key="d1">@premlata7577</data>
+    </node>
+    <node id="commenter:@HarshitKumar-z7p">
+      <data key="d0">commenter</data>
+      <data key="d1">@HarshitKumar-z7p</data>
+    </node>
+    <node id="commenter:@BhatSakiya-y9d">
+      <data key="d0">commenter</data>
+      <data key="d1">@BhatSakiya-y9d</data>
+    </node>
+    <node id="commenter:@babyshanvi5781">
+      <data key="d0">commenter</data>
+      <data key="d1">@babyshanvi5781</data>
+    </node>
+    <node id="commenter:@diywithme001">
+      <data key="d0">commenter</data>
+      <data key="d1">@diywithme001</data>
+    </node>
+    <node id="commenter:@ShubhamChauhan-b3m">
+      <data key="d0">commenter</data>
+      <data key="d1">@ShubhamChauhan-b3m</data>
+    </node>
+    <node id="commenter:@raghurajyadavraghurajyadav7338">
+      <data key="d0">commenter</data>
+      <data key="d1">@raghurajyadavraghurajyadav7338</data>
+    </node>
+    <node id="commenter:@priyankalalitdahiya8342">
+      <data key="d0">commenter</data>
+      <data key="d1">@priyankalalitdahiya8342</data>
+    </node>
+    <node id="commenter:@sonigupta2236">
+      <data key="d0">commenter</data>
+      <data key="d1">@sonigupta2236</data>
+    </node>
+    <node id="commenter:@J.KPRASAD-i8c">
+      <data key="d0">commenter</data>
+      <data key="d1">@J.KPRASAD-i8c</data>
+    </node>
+    <node id="commenter:@Bhagyalakshmi-j2m4i">
+      <data key="d0">commenter</data>
+      <data key="d1">@Bhagyalakshmi-j2m4i</data>
+    </node>
+    <node id="commenter:@Yachika-f5l">
+      <data key="d0">commenter</data>
+      <data key="d1">@Yachika-f5l</data>
+    </node>
+    <node id="commenter:@anshuyamamgain">
+      <data key="d0">commenter</data>
+      <data key="d1">@anshuyamamgain</data>
+    </node>
+    <node id="commenter:@SudakarGhodke-h5u">
+      <data key="d0">commenter</data>
+      <data key="d1">@SudakarGhodke-h5u</data>
+    </node>
+    <node id="commenter:@rabiahassan114">
+      <data key="d0">commenter</data>
+      <data key="d1">@rabiahassan114</data>
+    </node>
+    <node id="commenter:@JanelleDawnSlama-NQ33">
+      <data key="d0">commenter</data>
+      <data key="d1">@JanelleDawnSlama-NQ33</data>
+    </node>
+    <node id="commenter:@AnamikaKumari758">
+      <data key="d0">commenter</data>
+      <data key="d1">@AnamikaKumari758</data>
+    </node>
+    <node id="commenter:@DivabenPatel-t5h">
+      <data key="d0">commenter</data>
+      <data key="d1">@DivabenPatel-t5h</data>
+    </node>
+    <node id="commenter:@chillgmrff">
+      <data key="d0">commenter</data>
+      <data key="d1">@chillgmrff</data>
+    </node>
+    <node id="commenter:@businessconsultant2059">
+      <data key="d0">commenter</data>
+      <data key="d1">@businessconsultant2059</data>
+    </node>
+    <node id="commenter:@MukeshMishra-me7gi">
+      <data key="d0">commenter</data>
+      <data key="d1">@MukeshMishra-me7gi</data>
+    </node>
+    <node id="channel:Daljeet Kaur">
+      <data key="d0">channel</data>
+      <data key="d1">Daljeet Kaur</data>
+    </node>
+    <node id="video:VGl4XGunkdM">
+      <data key="d0">video</data>
+      <data key="d1">VGl4XGunkdM</data>
+    </node>
+    <node id="commenter:@Star_study779">
+      <data key="d0">commenter</data>
+      <data key="d1">@Star_study779</data>
+    </node>
+    <node id="commenter:@BhikanPinjari-o6c">
+      <data key="d0">commenter</data>
+      <data key="d1">@BhikanPinjari-o6c</data>
+    </node>
+    <node id="commenter:@KajalRaut-z5e">
+      <data key="d0">commenter</data>
+      <data key="d1">@KajalRaut-z5e</data>
+    </node>
+    <node id="commenter:@BimlaDevi-w7t6c">
+      <data key="d0">commenter</data>
+      <data key="d1">@BimlaDevi-w7t6c</data>
+    </node>
+    <node id="commenter:@ayushmalik3018">
+      <data key="d0">commenter</data>
+      <data key="d1">@ayushmalik3018</data>
+    </node>
+    <node id="commenter:@aiyanshiyt">
+      <data key="d0">commenter</data>
+      <data key="d1">@aiyanshiyt</data>
+    </node>
+    <node id="commenter:@SonusinghSonusingh-o9o">
+      <data key="d0">commenter</data>
+      <data key="d1">@SonusinghSonusingh-o9o</data>
+    </node>
+    <node id="commenter:@SAG_danRBLX">
+      <data key="d0">commenter</data>
+      <data key="d1">@SAG_danRBLX</data>
+    </node>
+    <node id="commenter:@RatneshKumar-is4bm">
+      <data key="d0">commenter</data>
+      <data key="d1">@RatneshKumar-is4bm</data>
+    </node>
+    <node id="commenter:@RajasabWalikar">
+      <data key="d0">commenter</data>
+      <data key="d1">@RajasabWalikar</data>
+    </node>
+    <node id="commenter:@UjwalaBase">
+      <data key="d0">commenter</data>
+      <data key="d1">@UjwalaBase</data>
+    </node>
+    <node id="commenter:@maheshkumar1141">
+      <data key="d0">commenter</data>
+      <data key="d1">@maheshkumar1141</data>
+    </node>
+    <node id="commenter:@NandaniMehta-w3w">
+      <data key="d0">commenter</data>
+      <data key="d1">@NandaniMehta-w3w</data>
+    </node>
+    <node id="commenter:@Asha-v4x2r">
+      <data key="d0">commenter</data>
+      <data key="d1">@Asha-v4x2r</data>
+    </node>
+    <node id="commenter:@NikhilChhabra-ow6ce">
+      <data key="d0">commenter</data>
+      <data key="d1">@NikhilChhabra-ow6ce</data>
+    </node>
+    <node id="commenter:@Little_fairyyyyy">
+      <data key="d0">commenter</data>
+      <data key="d1">@Little_fairyyyyy</data>
+    </node>
+    <node id="channel:LBC">
+      <data key="d0">channel</data>
+      <data key="d1">LBC</data>
+    </node>
+    <node id="video:ZfC98aM9C8Y">
+      <data key="d0">video</data>
+      <data key="d1">ZfC98aM9C8Y</data>
+    </node>
+    <node id="commenter:@edgar9651">
+      <data key="d0">commenter</data>
+      <data key="d1">@edgar9651</data>
+    </node>
+    <node id="commenter:@codeoverflowRoot">
+      <data key="d0">commenter</data>
+      <data key="d1">@codeoverflowRoot</data>
+    </node>
+    <node id="commenter:@kat-wolffe">
+      <data key="d0">commenter</data>
+      <data key="d1">@kat-wolffe</data>
+    </node>
+    <node id="commenter:@SammyC27">
+      <data key="d0">commenter</data>
+      <data key="d1">@SammyC27</data>
+    </node>
+    <node id="commenter:@MrJimWinter">
+      <data key="d0">commenter</data>
+      <data key="d1">@MrJimWinter</data>
+    </node>
+    <node id="commenter:@genes.3285">
+      <data key="d0">commenter</data>
+      <data key="d1">@genes.3285</data>
+    </node>
+    <node id="commenter:@ImaTXhick">
+      <data key="d0">commenter</data>
+      <data key="d1">@ImaTXhick</data>
+    </node>
+    <node id="commenter:@DxJ-h3u">
+      <data key="d0">commenter</data>
+      <data key="d1">@DxJ-h3u</data>
+    </node>
+    <node id="commenter:@prineshazar">
+      <data key="d0">commenter</data>
+      <data key="d1">@prineshazar</data>
+    </node>
+    <node id="commenter:@sunku260">
+      <data key="d0">commenter</data>
+      <data key="d1">@sunku260</data>
+    </node>
+    <node id="commenter:@ComaDave">
+      <data key="d0">commenter</data>
+      <data key="d1">@ComaDave</data>
+    </node>
+    <node id="commenter:@Ok92-q9j">
+      <data key="d0">commenter</data>
+      <data key="d1">@Ok92-q9j</data>
+    </node>
+    <node id="commenter:@Fruit_11_11">
+      <data key="d0">commenter</data>
+      <data key="d1">@Fruit_11_11</data>
+    </node>
+    <node id="commenter:@ajcap">
+      <data key="d0">commenter</data>
+      <data key="d1">@ajcap</data>
+    </node>
+    <node id="commenter:@khurrammahmood7948">
+      <data key="d0">commenter</data>
+      <data key="d1">@khurrammahmood7948</data>
+    </node>
+    <node id="commenter:@machidaman">
+      <data key="d0">commenter</data>
+      <data key="d1">@machidaman</data>
+    </node>
+    <node id="commenter:@russellgillick7938">
+      <data key="d0">commenter</data>
+      <data key="d1">@russellgillick7938</data>
+    </node>
+    <node id="commenter:@SamBrown-d5p">
+      <data key="d0">commenter</data>
+      <data key="d1">@SamBrown-d5p</data>
+    </node>
+    <node id="commenter:@michaelparks7177_BritOz">
+      <data key="d0">commenter</data>
+      <data key="d1">@michaelparks7177_BritOz</data>
+    </node>
+    <node id="commenter:@futonclutch5040">
+      <data key="d0">commenter</data>
+      <data key="d1">@futonclutch5040</data>
+    </node>
+    <node id="commenter:@chebghobbi">
+      <data key="d0">commenter</data>
+      <data key="d1">@chebghobbi</data>
+    </node>
+    <node id="commenter:@brunx4751">
+      <data key="d0">commenter</data>
+      <data key="d1">@brunx4751</data>
+    </node>
+    <node id="commenter:@Human_Herbivore">
+      <data key="d0">commenter</data>
+      <data key="d1">@Human_Herbivore</data>
+    </node>
+    <node id="commenter:@martynblackburn9632">
+      <data key="d0">commenter</data>
+      <data key="d1">@martynblackburn9632</data>
+    </node>
+    <node id="commenter:@agedcorsair6707">
+      <data key="d0">commenter</data>
+      <data key="d1">@agedcorsair6707</data>
+    </node>
+    <node id="commenter:@cliffcurtis8162">
+      <data key="d0">commenter</data>
+      <data key="d1">@cliffcurtis8162</data>
+    </node>
+    <node id="commenter:@rbotnic">
+      <data key="d0">commenter</data>
+      <data key="d1">@rbotnic</data>
+    </node>
+    <node id="commenter:@89Giorgiom">
+      <data key="d0">commenter</data>
+      <data key="d1">@89Giorgiom</data>
+    </node>
+    <node id="commenter:@szpadelpl">
+      <data key="d0">commenter</data>
+      <data key="d1">@szpadelpl</data>
+    </node>
+    <node id="commenter:@apkidlafirm522">
+      <data key="d0">commenter</data>
+      <data key="d1">@apkidlafirm522</data>
+    </node>
+    <node id="commenter:@akashs8819">
+      <data key="d0">commenter</data>
+      <data key="d1">@akashs8819</data>
+    </node>
+    <node id="commenter:@claudio3995">
+      <data key="d0">commenter</data>
+      <data key="d1">@claudio3995</data>
+    </node>
+    <node id="commenter:@LackofFaithify">
+      <data key="d0">commenter</data>
+      <data key="d1">@LackofFaithify</data>
+    </node>
+    <node id="commenter:@Pulsonar">
+      <data key="d0">commenter</data>
+      <data key="d1">@Pulsonar</data>
+    </node>
+    <node id="commenter:@Englishmanadam">
+      <data key="d0">commenter</data>
+      <data key="d1">@Englishmanadam</data>
+    </node>
+    <node id="commenter:@paulmeredith6102">
+      <data key="d0">commenter</data>
+      <data key="d1">@paulmeredith6102</data>
+    </node>
+    <node id="commenter:@MisterColombo-t6m">
+      <data key="d0">commenter</data>
+      <data key="d1">@MisterColombo-t6m</data>
+    </node>
+    <node id="commenter:@louisburke8927">
+      <data key="d0">commenter</data>
+      <data key="d1">@louisburke8927</data>
+    </node>
+    <node id="commenter:@Ilicito-j2v">
+      <data key="d0">commenter</data>
+      <data key="d1">@Ilicito-j2v</data>
+    </node>
+    <node id="commenter:@jarod1701">
+      <data key="d0">commenter</data>
+      <data key="d1">@jarod1701</data>
+    </node>
+    <node id="commenter:@AlexisMoore-nx6wf">
+      <data key="d0">commenter</data>
+      <data key="d1">@AlexisMoore-nx6wf</data>
+    </node>
+    <node id="commenter:@davidphtee">
+      <data key="d0">commenter</data>
+      <data key="d1">@davidphtee</data>
+    </node>
+    <node id="channel:Science Simplified 4 All">
+      <data key="d0">channel</data>
+      <data key="d1">Science Simplified 4 All</data>
+    </node>
+    <node id="video:m8o2GrbR3d8">
+      <data key="d0">video</data>
+      <data key="d1">m8o2GrbR3d8</data>
+    </node>
+    <node id="commenter:@zapmaster2010">
+      <data key="d0">commenter</data>
+      <data key="d1">@zapmaster2010</data>
+    </node>
+    <node id="commenter:@Nektaria11000">
+      <data key="d0">commenter</data>
+      <data key="d1">@Nektaria11000</data>
+    </node>
+    <node id="commenter:@James-b2c4u">
+      <data key="d0">commenter</data>
+      <data key="d1">@James-b2c4u</data>
+    </node>
+    <node id="commenter:@tdonovan57">
+      <data key="d0">commenter</data>
+      <data key="d1">@tdonovan57</data>
+    </node>
+    <node id="commenter:@EverydayAILabMedia">
+      <data key="d0">commenter</data>
+      <data key="d1">@EverydayAILabMedia</data>
+    </node>
+    <node id="commenter:@anabelperalta356">
+      <data key="d0">commenter</data>
+      <data key="d1">@anabelperalta356</data>
+    </node>
+    <node id="commenter:@biloz2988">
+      <data key="d0">commenter</data>
+      <data key="d1">@biloz2988</data>
+    </node>
+    <node id="commenter:@jackass52">
+      <data key="d0">commenter</data>
+      <data key="d1">@jackass52</data>
+    </node>
+    <node id="commenter:@ElsieKaunatjike-y4j">
+      <data key="d0">commenter</data>
+      <data key="d1">@ElsieKaunatjike-y4j</data>
+    </node>
+    <node id="commenter:@nyokabikatrina">
+      <data key="d0">commenter</data>
+      <data key="d1">@nyokabikatrina</data>
+    </node>
+    <node id="commenter:@bhajansinghriar7020">
+      <data key="d0">commenter</data>
+      <data key="d1">@bhajansinghriar7020</data>
+    </node>
+    <node id="commenter:@everydaywithnegra">
+      <data key="d0">commenter</data>
+      <data key="d1">@everydaywithnegra</data>
+    </node>
+    <node id="commenter:@FeralFloofShredderCommunity5">
+      <data key="d0">commenter</data>
+      <data key="d1">@FeralFloofShredderCommunity5</data>
+    </node>
+    <node id="commenter:@watcher1728">
+      <data key="d0">commenter</data>
+      <data key="d1">@watcher1728</data>
+    </node>
+    <node id="commenter:@AsadAf-rs1mm">
+      <data key="d0">commenter</data>
+      <data key="d1">@AsadAf-rs1mm</data>
+    </node>
+    <node id="commenter:@ddumbasportstv4458">
+      <data key="d0">commenter</data>
+      <data key="d1">@ddumbasportstv4458</data>
+    </node>
+    <node id="commenter:@fa18superhornetpilotcessna75">
+      <data key="d0">commenter</data>
+      <data key="d1">@fa18superhornetpilotcessna75</data>
+    </node>
+    <node id="commenter:@Muna-dB">
+      <data key="d0">commenter</data>
+      <data key="d1">@Muna-dB</data>
+    </node>
+    <node id="commenter:@RicklessSanchez">
+      <data key="d0">commenter</data>
+      <data key="d1">@RicklessSanchez</data>
+    </node>
+    <node id="commenter:@jillrosa2606">
+      <data key="d0">commenter</data>
+      <data key="d1">@jillrosa2606</data>
+    </node>
+    <node id="commenter:@dresnick12">
+      <data key="d0">commenter</data>
+      <data key="d1">@dresnick12</data>
+    </node>
+    <node id="commenter:@beautifulstep">
+      <data key="d0">commenter</data>
+      <data key="d1">@beautifulstep</data>
+    </node>
+    <node id="commenter:@MsCellobass">
+      <data key="d0">commenter</data>
+      <data key="d1">@MsCellobass</data>
+    </node>
+    <node id="commenter:@gerardfonz">
+      <data key="d0">commenter</data>
+      <data key="d1">@gerardfonz</data>
+    </node>
+    <node id="commenter:@ranjan5ua">
+      <data key="d0">commenter</data>
+      <data key="d1">@ranjan5ua</data>
+    </node>
+    <node id="commenter:@Randomly2222">
+      <data key="d0">commenter</data>
+      <data key="d1">@Randomly2222</data>
+    </node>
+    <node id="commenter:@MauritiusPodcast">
+      <data key="d0">commenter</data>
+      <data key="d1">@MauritiusPodcast</data>
+    </node>
+    <node id="commenter:@Dayta-MOD">
+      <data key="d0">commenter</data>
+      <data key="d1">@Dayta-MOD</data>
+    </node>
+    <node id="commenter:@Star-vg7ix">
+      <data key="d0">commenter</data>
+      <data key="d1">@Star-vg7ix</data>
+    </node>
+    <node id="commenter:@tomgregory6275">
+      <data key="d0">commenter</data>
+      <data key="d1">@tomgregory6275</data>
+    </node>
+    <node id="commenter:@qualquan">
+      <data key="d0">commenter</data>
+      <data key="d1">@qualquan</data>
+    </node>
+    <node id="commenter:@prithvibrar1297">
+      <data key="d0">commenter</data>
+      <data key="d1">@prithvibrar1297</data>
+    </node>
+    <node id="commenter:@StoicIdea-k2r">
+      <data key="d0">commenter</data>
+      <data key="d1">@StoicIdea-k2r</data>
+    </node>
+    <node id="commenter:@normaknight572">
+      <data key="d0">commenter</data>
+      <data key="d1">@normaknight572</data>
+    </node>
+    <node id="commenter:@khalifaalnuumani2990">
+      <data key="d0">commenter</data>
+      <data key="d1">@khalifaalnuumani2990</data>
+    </node>
+    <node id="commenter:@peterhands5591">
+      <data key="d0">commenter</data>
+      <data key="d1">@peterhands5591</data>
+    </node>
+    <node id="commenter:@lawrencelawrence-k9e">
+      <data key="d0">commenter</data>
+      <data key="d1">@lawrencelawrence-k9e</data>
+    </node>
+    <node id="commenter:@KarlSuch">
+      <data key="d0">commenter</data>
+      <data key="d1">@KarlSuch</data>
+    </node>
+    <node id="commenter:@tomcolgan-tl7zk">
+      <data key="d0">commenter</data>
+      <data key="d1">@tomcolgan-tl7zk</data>
+    </node>
+    <node id="commenter:@SinaMumuta">
+      <data key="d0">commenter</data>
+      <data key="d1">@SinaMumuta</data>
+    </node>
+    <node id="commenter:@MA-dg1qr">
+      <data key="d0">commenter</data>
+      <data key="d1">@MA-dg1qr</data>
+    </node>
+    <node id="commenter:@selvappriyaabhavaanee117">
+      <data key="d0">commenter</data>
+      <data key="d1">@selvappriyaabhavaanee117</data>
+    </node>
+    <node id="commenter:@saleemulla3614">
+      <data key="d0">commenter</data>
+      <data key="d1">@saleemulla3614</data>
+    </node>
+    <node id="commenter:@user-rr9lv9ll4x">
+      <data key="d0">commenter</data>
+      <data key="d1">@user-rr9lv9ll4x</data>
+    </node>
+    <edge source="channel:60 Minutes Australia" target="video:XMxcSf9XkbQ">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="channel:Simplilearn" target="video:ad79nYk2keg">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@SimplilearnOfficial">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@NanduRathod-w6d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@dollysingh255">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@KalyaniJamadar-j5n">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@MuhammadAdeelChughtai">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@OlanikeAkilo">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@ThreeAngel-v5r">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@BytefrontStudio">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@PeterCarlson-o9n">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@elianmartinezmorales199">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@preciousolafioye2589">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@meekserge6300">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@SundayEman">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@VishnupriyaanjellSneha">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@balasubramanianmuthu7270">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@torijoyous">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@DANITEKDIGITALSOLUTIONS">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@KajalSingh-og4sg">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@TaneshaBunch">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@SIMOFOX-F1">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@ЯрославПрисяжний-э3у">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@SusmitaRoy-r6o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@newonFactstime">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@tvaccount2105">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@nilanjanroychoudhury9084">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@apiowinniefred-h5k">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@junkyardawgs">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@Ibrahim-bz9gq">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@AnasHasan-2005">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@rajeshkumarpalani9938">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@RajeshKumarPalani-f4j">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@DavidChadderton-g7d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@ACEofBASED101">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@divyataneja900">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@DanielleWillis-z3j">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@GraceJCK">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@ZulkifilKartal">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@ShrutiNarvekar-d1j">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@indisports484">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@AhmedAli-f5f3w">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@MudassirSyed-d8q">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@SaanviInnovations">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@WanofiHayleysus">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@Daniel-v6i7v">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@Dipankar-s7">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ad79nYk2keg" target="commenter:@johnsylvanus-cf2fp">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:edureka!" target="video:JMUxmLyrhSk">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@edurekaIN">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@BholaSing-d7c">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@NishitaHatun">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@johnjacob5240">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@SNTHAKUR96">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@SåMīrRåYÑ-l6h">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@AmitSharma-rc4zq">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@aurelianalcali">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@GunaVishal.R">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@CaowmsuehNaowmsus">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@SHASHIMISHRA-y7i">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@JafevuviRgdvycer">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@IsaiahKeirnant">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@felisminamavie2242">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@amarjitdas1785">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@BhiraiahSangepu-o6o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@habiburrohoman-u7o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@deborabenegas9609">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@NiiSackey-zs6kn">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@Daniel-d1c5y">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@jays.b1997">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@RehmanAli-b1w">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@muhammadahtasham962">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@NdhjBdgb">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@CondoramSowsn">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@japi425">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@RichardRiley-e3l">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@RyannOrgan">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@hussainbashasheik9901">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@SabineSchmitz-j4d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@ArockiadasManickam">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@krishnadeshpande2570">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@WillianeYarro">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@AnshuTiwary-q3h">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@nsubugaalysha7216">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@mkhizarsultan6940">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@mini4667">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@somnathbhattacharya6430">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@kamalkantgautam1287">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@fariashaikh1755">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@awedayo1972">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@BuragapuHaritha">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@KianRezaee-x3d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@PipingMuhamadAripin">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@zainudeenrawther3607">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@meghana-oc1xq8gk9t">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@subbarayans6625">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:JMUxmLyrhSk" target="commenter:@adebilejetunji7965">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:IBM Technology" target="video:mUw27wG7uFA">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@ShobhakarTiwari">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@bincrazy-p8d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@iwsL-j4r">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@kien6131">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@AsiimweGloria-c5l">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@GEF6560">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@hoatalwong1681">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@itsmyturnmedia">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Stcil12">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Watcher375">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@DotrOfDt">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@abrahamjacob8517">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@derekonai">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Zn_Arian">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@L.h314">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@elizabethcooke8998">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@procellxtwinkletoes">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@YamahaC7SRG">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@AndreaMichelle-w5f">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@brianday67">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@RobertMcDougall73">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@MelisaAguilar-ec4pi">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@ChadMc74">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@shtroizn">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@ShiwamKumar-x4w">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Randy.E.R">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@T-KRD">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Ramkumar-uj9fo">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@iamjohntanedo">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@patricklaughran6650">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@stanlylewis-t8t">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Fried52">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@AISandboxAcademy">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@FilmArchiveChannel">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@SquareHelmet">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@charles-iii6759">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@raykirkham5357">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@SeattleNoname">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@lanreenilo788">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@Maria-w3k7z">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@saalimzafar93">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@lilyroseable">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@TKumar-yv9iz">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@LuganoMassimo">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@LwinAungMoe-m5s">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@nunomoldigital">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@SamarAtefShear">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@HarrietOluoch-n2y">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:mUw27wG7uFA" target="commenter:@tonyg6827">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:Peekaboo Kidz" target="video:ttIOdAdQaUE">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="channel:CynoHub" target="video:rw4SFwleSqA">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@cynohub">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@KagithasatyamnaryanaSatyanaray">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@18895kumar">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@saradhichitfundsmncl5908">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@KumarGokarakonda">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@JoyLucky-h3j4s">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@sathibabupothala1546">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@God-grace-2026">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@jakkulaemmanuel5890">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@polinaiduyelakala2414">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@krishnarao9874">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@RAVIIT-369">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@seshuadi5963">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@marysuvarnagirija4919">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@PenchalaMalliah">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@AkashKumar-p8f8b">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@NITHISH_MUSIC_WORLD_28">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@Shaaine_015">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@bmpolypetindustries1">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@maheswararaolakkimsetti207">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@SaiKumar-fm5rr">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@shyamsunderrao7911">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@srinivasamurthyg6766">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@kanchanamgovindaraju2649">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@thoughtlineformeditation8787">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@josephkiran8085">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@GayathriBandi-e2h">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@RameshLandam">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@RSugunamma-x4f3q">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@gubblaradharani955">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@madhavigoodgirl1537">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@LakshmiAmmu-s3q">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@revurinagaraja9677">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@lakshmikanthmaacherla">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@Harshitha-ik1pv">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@DhavaleswariAnnapureddy">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@ArunaKonduri">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@nakkakirankumarreddy-m9l">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@SrinuvasuluMartala">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@RamyaDevathoti">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@sivam4347">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@murugankasthuri-b2y">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@thyagarajavenkatesh1970">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@Praveen347-q6n">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@MNaresh-n9l4d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@satyanarayanagudla6655">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@NarenderNarender-w2b">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@PrakashKumba-p1u8o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:rw4SFwleSqA" target="commenter:@msandeep35">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:Letter Writer" target="video:SKk82S_Wx_I">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@Anathyb484Anathyb">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@supriyabhosle9296">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@BimalaBogatiRawat">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@claraaameiree">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@swatitiwari8227">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@sopanmia4219">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@BipulNokrek">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@andyclark5257">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@jeremynelson220">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@reshmadhulap7575">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@jordanclark99637">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@ArchanaVerma-i4i">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@sideeqpp4832">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@prashantpardhe5685">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@cosmiccodeacademy">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@hidaaya_aint_smart">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@PadmavathiMungaanda">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@NeelaKrishnan-tb4y">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@RupamDeb-w3w5o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@smunro851">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@RamaMagar-o6f">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@Rohit.kale-14">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@nishantyadav3162">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@hzzzkhan8849">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@SukhvirsinghDhaliwal-n1m">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@saheersahee6967">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@AlfiyaBano-t4w2y">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@premlata7577">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@HarshitKumar-z7p">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@BhatSakiya-y9d">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@babyshanvi5781">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@diywithme001">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@ShubhamChauhan-b3m">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@raghurajyadavraghurajyadav7338">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@priyankalalitdahiya8342">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@sonigupta2236">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@J.KPRASAD-i8c">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@Bhagyalakshmi-j2m4i">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@Yachika-f5l">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@anshuyamamgain">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@SudakarGhodke-h5u">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@rabiahassan114">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@JanelleDawnSlama-NQ33">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@AnamikaKumari758">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@DivabenPatel-t5h">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@chillgmrff">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@businessconsultant2059">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:SKk82S_Wx_I" target="commenter:@MukeshMishra-me7gi">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:Daljeet Kaur" target="video:VGl4XGunkdM">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@Star_study779">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@BhikanPinjari-o6c">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@KajalRaut-z5e">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@BimlaDevi-w7t6c">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@ayushmalik3018">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@aiyanshiyt">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@SonusinghSonusingh-o9o">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@SAG_danRBLX">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@RatneshKumar-is4bm">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@RajasabWalikar">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@UjwalaBase">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@maheshkumar1141">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@NandaniMehta-w3w">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@Asha-v4x2r">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@NikhilChhabra-ow6ce">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:VGl4XGunkdM" target="commenter:@Little_fairyyyyy">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:LBC" target="video:ZfC98aM9C8Y">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@edgar9651">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@codeoverflowRoot">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@kat-wolffe">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@SammyC27">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@MrJimWinter">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@genes.3285">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@ImaTXhick">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@DxJ-h3u">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@prineshazar">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@sunku260">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@ComaDave">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Ok92-q9j">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Fruit_11_11">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@ajcap">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@khurrammahmood7948">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@machidaman">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@russellgillick7938">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@SamBrown-d5p">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@michaelparks7177_BritOz">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@futonclutch5040">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@chebghobbi">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@brunx4751">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Human_Herbivore">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@martynblackburn9632">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@agedcorsair6707">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@cliffcurtis8162">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@rbotnic">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@89Giorgiom">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@szpadelpl">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@apkidlafirm522">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@akashs8819">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@claudio3995">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@LackofFaithify">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Pulsonar">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Englishmanadam">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@paulmeredith6102">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@MisterColombo-t6m">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@louisburke8927">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@Ilicito-j2v">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@jarod1701">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@AlexisMoore-nx6wf">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:ZfC98aM9C8Y" target="commenter:@davidphtee">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="channel:Science Simplified 4 All" target="video:m8o2GrbR3d8">
+      <data key="d2">publishes</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@zapmaster2010">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@Nektaria11000">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@James-b2c4u">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@tdonovan57">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@EverydayAILabMedia">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@anabelperalta356">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@biloz2988">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@jackass52">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@ElsieKaunatjike-y4j">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@nyokabikatrina">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@bhajansinghriar7020">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@everydaywithnegra">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@FeralFloofShredderCommunity5">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@watcher1728">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@AsadAf-rs1mm">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@ddumbasportstv4458">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@fa18superhornetpilotcessna75">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@Muna-dB">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@RicklessSanchez">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@jillrosa2606">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@dresnick12">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@beautifulstep">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@MsCellobass">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@gerardfonz">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@ranjan5ua">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@Randomly2222">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@MauritiusPodcast">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@Dayta-MOD">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@Star-vg7ix">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@tomgregory6275">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@qualquan">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@prithvibrar1297">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@StoicIdea-k2r">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@normaknight572">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@khalifaalnuumani2990">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@peterhands5591">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@lawrencelawrence-k9e">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@KarlSuch">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@tomcolgan-tl7zk">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@SinaMumuta">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@MA-dg1qr">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@selvappriyaabhavaanee117">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@saleemulla3614">
+      <data key="d2">has_commenter</data>
+    </edge>
+    <edge source="video:m8o2GrbR3d8" target="commenter:@user-rr9lv9ll4x">
+      <data key="d2">has_commenter</data>
+    </edge>
+  </graph>
+</graphml>
