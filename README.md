@@ -1,112 +1,188 @@
-\# Social Media Intelligence Platform
+# Social Media Intelligence Platform
 
+An end-to-end Python-based Social Media Intelligence Platform that analyzes YouTube videos and audience comments using Natural Language Processing (NLP), sentiment analysis, topic modeling, graph analytics, and Neo4j.
 
+## 1. Project Overview
 
-An end-to-end Python project for analyzing YouTube social media data through sentiment analysis, topic modeling, trend analysis, social network analysis, and Neo4j graph database integration.
+This project aims to understand YouTube audience discussions, identify public sentiment, discover trending topics, and analyze social interaction networks.
 
+The platform combines data collection, text analytics, network analysis, and graph database technology to generate meaningful insights from social media data.
 
+## 2. Project Objectives
 
-\## Features
+- Collect YouTube video and comment data.
+- Clean and preprocess collected text.
+- Perform sentiment analysis.
+- Discover discussion topics using topic modeling.
+- Analyze topic trends over time.
+- Construct social interaction networks.
+- Identify important nodes using graph centrality.
+- Detect communities in social networks.
+- Store and explore graph relationships using Neo4j.
+- Generate analytical reports and visualizations.
 
+## 3. Key Features
 
+1. YouTube Data Collection
+2. Text Preprocessing
+3. Sentiment Analysis
+4. Topic Modeling
+5. Topic Trend Analysis
+6. Social Interaction Graph Construction
+7. NetworkX Graph Analytics
+8. Static Graph Visualization
+9. Interactive Graph Visualization
+10. Neo4j Database Integration
 
-1\. YouTube data collection
+## 4. Technology Stack
 
-2\. Text preprocessing
+| Category | Technologies |
+|---|---|
+| Programming Language | Python |
+| Data Processing | Pandas, NumPy |
+| Machine Learning | Scikit-learn |
+| Natural Language Processing | NLP |
+| Sentiment Analysis | Sentiment Analysis |
+| Topic Modeling | Topic Modeling |
+| Graph Analytics | NetworkX |
+| Graph Database | Neo4j |
+| Visualization | Matplotlib, Plotly |
+| Interactive Graphs | Vis Network |
+| Data Storage | CSV, GraphML |
+| Version Control | Git, GitHub |
 
-3\. Sentiment analysis
+## 5. Project Architecture
 
-4\. Topic modeling
+The project follows this workflow:
 
-5\. Topic trend analysis
+YouTube Data Collection
+        ↓
+Text Preprocessing
+        ↓
+Sentiment Analysis
+        ↓
+Topic Modeling
+        ↓
+Topic Trend Analysis
+        ↓
+Social Interaction Graph Construction
+        ↓
+Graph Analytics using NetworkX
+        ↓
+Graph Visualization
+        ↓
+Neo4j Database Integration
+        ↓
+Analytical Reports
 
-6\. Social interaction graph construction
+For more details, see:
 
-7\. NetworkX graph analytics
+`docs/ARCHITECTURE.md`
 
-8\. Static and interactive graph visualization
+## 6. Project Results
 
-9\. Neo4j database integration
-
-
-
-\## Technology Stack
-
-
-
-\- Python
-
-\- Pandas and NumPy
-
-\- Scikit-learn
-
-\- NetworkX
-
-\- Matplotlib
-
-\- Plotly
-
-\- Streamlit
-
-\- YouTube Data API
-
-\- Neo4j
-
-\- GraphML
-
-
-
-\## Project Results
-
-
+### Social Interaction Graph Statistics
 
 | Metric | Result |
-
 |---|---:|
-
-| Channels | 10 |
-
-| Videos | 10 |
-
+| YouTube Channels | 10 |
+| YouTube Videos | 10 |
 | Commenters | 342 |
+| Total Nodes | 362 |
+| Total Relationships | 352 |
+| Detected Communities | 10 |
 
-| Total nodes | 362 |
+### Graph Structure
 
-| Relationships | 352 |
+The constructed directed graph contains:
 
-| Communities | 10 |
+- Channel → Video (`PUBLISHES`)
+- Video → Commenter (`HAS_COMMENTER`)
 
-| Graph density | 0.2694% |
+### Graph Analytics Techniques
 
+- Degree Centrality
+- PageRank
+- Community Detection
+- Node Type Distribution
+- Social Network Structure Analysis
 
+Note: These results describe only the collected dataset. They do not represent all YouTube users or platform-wide engagement.
 
-\## Graph Structure
+## 7. Project Visualizations
 
+### Sentiment Distribution
 
+![Sentiment Distribution](dashboards/sentiment_distribution.png)
 
-Channel -> Video -> Commenter
+### Sentiment Over Time
 
+![Sentiment Over Time](dashboards/sentiment_over_time.png)
 
+### Sentiment by Language
 
-Relationships:
+![Sentiment by Language](dashboards/sentiment_by_language.png)
 
-\- PUBLISHES
+### Topic Distribution
 
-\- HAS\_COMMENTER
+![Topic Distribution](dashboards/topic_distribution.png)
 
+### Topic Trends Over Time
 
+![Topic Trends](dashboards/topic_trends_over_time.png)
 
-\## Installation
+### Social Interaction Network
 
+![Social Interaction Network](dashboards/social_interaction_network.png)
 
+### Channel and Video Network
 
-Clone the repository:
+![Channel Video Network](dashboards/channel_video_network.png)
 
+## 8. Neo4j Integration
 
+The generated social interaction graph was successfully imported into Neo4j.
 
-```bash
+Import summary:
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+- 362 nodes imported.
+- 352 relationships imported.
+- Database constraints created successfully.
+- Graph relationships stored and explored using Cypher.
 
-cd social-media-intelligence-platform
+## 9. Project Structure
 
+```text
+social-media-intelligence-platform/
+│
+├── dashboards/
+│
+├── data/
+│   └── processed/
+│
+├── docs/
+│   ├── ARCHITECTURE.md
+│   └── GRAPH_ANALYTICS_REPORT.md
+│
+├── lib/
+│
+├── reports/
+│   └── graph_visualizations/
+│
+├── src/
+│   ├── graph/
+│   ├── ingestion/
+│   ├── misinformation/
+│   ├── preprocessing/
+│   ├── search/
+│   ├── sentiment/
+│   └── topics/
+│
+├── tests/
+│
+├── neo4j_importer.py
+├── requirements.txt
+├── inspect_topics.py
+├── test_comments.py
+├── test_neo4j.py
+└── README.md
